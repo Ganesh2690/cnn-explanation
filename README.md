@@ -108,17 +108,7 @@ Visualizations include:
 
 ---
 
-## 🔍 Sample Output
 
-![Sample](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
-
----
-
-## 📄 License
-
-This project is open-sourced under the MIT License.
-
----
 
 ## 🙌 Acknowledgements
 
@@ -126,3 +116,4 @@ This project is open-sourced under the MIT License.
 - [Keras](https://keras.io/)
 - [MNIST Database](http://yann.lecun.com/exdb/mnist/)
 # cnn-explanation
+# cnn-practice
